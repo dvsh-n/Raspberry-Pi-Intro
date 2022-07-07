@@ -13,7 +13,6 @@ GPIO.setup(LED1_PIN, GPIO.OUT)
 GPIO.setup(LED2_PIN, GPIO.OUT)
 GPIO.setup(LED3_PIN, GPIO.OUT)
 
-prev_state = 0
 curr_state = 0
 counter = 0
 
